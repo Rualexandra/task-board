@@ -20,4 +20,4 @@ I refresh the page and the saved tasks persist.
 
 # Link to application:
 
-<!-- <https://rualexandra.github.io//> -->
+https://rualexandra.github.io/task-board/
