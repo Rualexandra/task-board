@@ -14,9 +14,9 @@ I refresh the page and the saved tasks persist.
 
 # Application:
 
-<img src="./Assets/Screenshot 2024-03-24 at 10.26.11 PM.png" width="50%" height="50%">
+<img src="./images/Screenshot 2024-03-24 at 10.26.11 PM.png" width="50%" height="50%">
 
-<img src="./Assets/screenshot.png" width="50%" height="50%">
+<img src="./images/screenshot.png" width="50%" height="50%">
 
 # Link to application:
 
