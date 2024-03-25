@@ -53,7 +53,7 @@ $(document).ready(function () {
     let title = $("#task-title").val();
     let description = $("#task-description").val();
     let deadline = $("#datepicker").val();
-    let status = "to-do"; // Assuming the default status is "To Do"
+    let status = "to-do"; // 
     let task = { id: generateTaskId(), title, description, deadline, status };
     taskList.push(task);
     localStorage.setItem("tasks", JSON.stringify(taskList));
