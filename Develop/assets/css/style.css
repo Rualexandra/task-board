@@ -14,3 +14,11 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+.card-danger {
+  background-color: #ef233c;
+}
+
+.card-warning {
+  background-color: #ffee88;
+}
